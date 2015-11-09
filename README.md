@@ -1,3 +1,4 @@
+https://travis-ci.org/madbear2000/spring-boot-sample.svg
 # spring-boot-sample
 A Sample Spring Boot Application using H2 database.
 
