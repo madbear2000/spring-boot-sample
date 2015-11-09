@@ -1,4 +1,5 @@
-https://travis-ci.org/madbear2000/spring-boot-sample.svg
+[![Build Status](https://travis-ci.org/madbear2000/spring-boot-sample.svg)](https://travis-ci.org/madbear2000/spring-boot-sample)
+
 # spring-boot-sample
 A Sample Spring Boot Application using H2 database.
 
